@@ -1,5 +1,5 @@
 # TrabalhoImplementacao
-Equipe: Viviane Maria
+Equipe: Viviane Maria Wehrmeister
 
 •Problema: Reconhecimento Facial utilizando java, com uso de OpenCV e JavaCV.
 
