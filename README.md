@@ -5,5 +5,5 @@ Equipe: Viviane Maria
 
 •Dataset: http://vision.ucsd.edu/content/yale-face-database.
 
-•Técnica: Utilizando os algoritmos Eigenfaces(PCA principal component analysis) e Fisherfaces (LDA - Linear Discriminant Analysis), ainda não decidi qual vai ser o classificador.
+•Técnica: Utilizando os algoritmos Eigenfaces(PCA principal component analysis).
 
