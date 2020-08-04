@@ -5,5 +5,5 @@ Equipe: Viviane Maria Wehrmeister
 
 •Dataset: http://vision.ucsd.edu/content/yale-face-database.
 
-•Técnica: Utilizando os algoritmos Eigenfaces(PCA principal component analysis).
+•Técnica: Utilizando o algoritmo Eigenfaces(PCA principal component analysis).
 
