@@ -16,7 +16,9 @@ A classiĄcação de faces do cálculo da distância entre a imagem sendo analis
 
 Imagem: em escala de cinza.
 A validação cruzada utilizará Holdout,como segue abaixo:
+
 Treinamento: foi usado 73% do dataset.
+
 Teste: foi usado 27% do dataset.
 
 Bibliografia
