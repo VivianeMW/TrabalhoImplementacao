@@ -14,6 +14,11 @@ Criam uma face média com base no valor das imagens do dataset e com a variaçã
 
 A classiĄcação de faces do cálculo da distância entre a imagem sendo analisada e a imagem sendo analisada projetada no novo espaço. Se o valor da distância estiver dentro de uma distância limite(threshold-utiliza algoritmo KNN), é considerada face, caso contrário é considerada como não. 
 
+Imagem: em escala de cinza.
+A validação cruzada utilizará Holdout,como segue abaixo:
+Treinamento: foi usado 73% do dataset.
+Teste: foi usado 27% do dataset.
+
 Bibliografia
 
 Bissi, T. D. Reconhecimento Facial com os algoritmos Eigenfaces e Fisherfaces, 2018. Díponível em: https://repositorio.ufu.br/bitstream/123456789/22158/3/ReconhecimentoFacialAlgotimos.pdf.Acesso em:05/08/2020
