@@ -12,7 +12,7 @@ As imagens de treinamento apontam os componentes mais relevantes da face humana.
 
 Criam uma face média com base no valor das imagens do dataset e com a variação dos valores dessas componentes é possivel apresentar grande conjunto de faces (dada por auto-valores multiplicação escalares). Cada face pode ser representada como combinação linear das diversas eigenfaces.
 
-A classiĄcação de faces do cálculo da distância entre a imagem sendo analisada e a imagem sendo analisada projetada no novo espaço. Se o valor da distância estiver dentro de uma distância limite(threshold-utiliza algoritmo KNN), é considerada face, caso contrário é considerada como não. 
+A classicação de faces, o cálculo da distância entre a imagem sendo analisada e a projetada no novo espaço. Se o valor da distância estiver dentro de uma distância limite(threshold-utiliza algoritmo KNN), é considerada face, caso contrário é considerada como não. 
 
 Imagem: em escala de cinza.
 A validação cruzada utilizará Holdout,como segue abaixo:
