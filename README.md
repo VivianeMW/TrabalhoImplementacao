@@ -3,7 +3,7 @@ Equipe: Viviane Maria Wehrmeister
 
 •Problema: Reconhecimento Facial utilizando java, com uso de OpenCV e JavaCV.
 
-•Dataset: Nome do dataset: The Yale Face Database. Disponível em: http://vision.ucsd.edu/datasets/yale_face_dataset_original/yalefaces.zip Acesso em:05/08/2020
+•Dataset: Nome do dataset: The Yale Face Database. Disponível em: http://vision.ucsd.edu/datasets/yale_face_dataset_original/yalefaces.zip Acesso em:05/08/2020.
 
 •Técnica: Utilizando o algoritmo Eigenfaces (PCA principal component analysis): 
 
@@ -15,7 +15,7 @@ Criam uma face média com base no valor das imagens do dataset e com a variaçã
 A classicação de faces, o cálculo da distância entre a imagem sendo analisada e a projetada no novo espaço. Se o valor da distância estiver dentro de uma distância limite(threshold-utiliza algoritmo KNN), é considerada face, caso contrário é considerada como não. 
 
 Imagem: em escala de cinza.
-A validação cruzada utilizará Holdout,como segue abaixo:
+A validação cruzada utilizará Holdout, como segue abaixo:
 
 Treinamento: foi usado 73% do dataset.
 
