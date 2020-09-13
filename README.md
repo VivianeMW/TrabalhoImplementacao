@@ -3,7 +3,7 @@ Equipe: Viviane Maria Wehrmeister
 
 •Problema: Reconhecimento Facial utilizando java, com uso de OpenCV e JavaCV.
 
-•Dataset: Nome do dataset: The Yale Face Database. Disponível em: http://vision.ucsd.edu/datasets/yale_face_dataset_original/yalefaces.zip Aceeso em:05/08/2020
+•Dataset: Nome do dataset: The Yale Face Database. Disponível em: http://vision.ucsd.edu/datasets/yale_face_dataset_original/yalefaces.zip Acesso em:05/08/2020
 
 •Técnica: Utilizando o algoritmo Eigenfaces (PCA principal component analysis): 
 
