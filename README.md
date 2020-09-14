@@ -29,7 +29,7 @@ Link do video: https://www.youtube.com/watch?v=boF-Sw-SP7U
 
 Bibliografia
 
-Bissi, T. D. Reconhecimento Facial com os algoritmos Eigenfaces e Fisherfaces, 2018. Díponível em: https://repositorio.ufu.br/bitstream/123456789/22158/3/ReconhecimentoFacialAlgotimos.pdf.Acesso em:05/08/2020
+Bissi, T. D. Reconhecimento Facial com os algoritmos Eigenfaces e Fisherfaces, 2018. Dísponível em: https://repositorio.ufu.br/bitstream/123456789/22158/3/ReconhecimentoFacialAlgotimos.pdf.Acesso em:05/08/2020
 
 OpenCv, Face Recogni with OpenCV. 2020. Disponível em: https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html Acesso em : 11/09/2020.
 
