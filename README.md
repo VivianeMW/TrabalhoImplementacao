@@ -1,18 +1,19 @@
 # TrabalhoImplementacao
 • **Equipe:** Viviane Maria Wehrmeister
 
-• **Problema:** Reconhecimento Facial utilizando java, com uso de OpenCV e JavaCV.
+• **Problema:** Reconhecimento Facial utilizando Java, com uso de OpenCV e JavaCV. Identificar uma face em uma imagem. Identificar uma face na webcam.
 
 • **Dataset**: Nome do dataset: The Yale Face Database. Disponível em: http://vision.ucsd.edu/datasets/yale_face_dataset_original/yalefaces.zip Acesso em:05/08/2020.
+O dataset Yale Faces possui faces de 15 sujeitos, e de cada sujeito 11 imagens. Essas 11 imagens possuem as seguintes condições: Luz central, Óculos, Feliz, Luz à esquerda, Sem óculos, Normal, Luz direita, Triste, Olhos Fechados, Surpreso, Piscada.
 
 • **Técnica:** Utilizando o algoritmo Eigenfaces (PCA principal component analysis): 
 
-O nome eigenfaces dado aos auto-vetores(eigenvectors) da matriz de covariância das imagens das faces do dataset de faces de treinamento por possuírem aspectos de faces. 
+O nome eigenfaces dado aos autovetores(eigenvectors) da matriz de covariância das imagens das faces do dataset de faces de treinamento por possuírem aspectos de faces. 
 As imagens de treinamento apontam os componentes mais relevantes da face humana.
 
-Criam uma face média com base no valor das imagens do dataset e com a variação dos valores dessas componentes é possivel apresentar grande conjunto de faces (dada por auto-valores multiplicação escalares). Cada face pode ser representada como combinação linear das diversas eigenfaces.
+Criam uma face média com base no valor das imagens do dataset e com a variação dos valores dessas componentes é possível apresentar grande conjunto de faces (dada por autovalores multiplicação escalares). Cada face pode ser representada como combinação linear das diversas eigenfaces.
 
-A classicação de faces, o cálculo da distância entre a imagem sendo analisada e a projetada no novo espaço. Se o valor da distância estiver dentro de uma distância limite(threshold-utiliza algoritmo KNN), é considerada face, caso contrário é considerada como não. 
+A classificação de faces, o cálculo da distância entre a imagem sendo analisada e a projetada no novo espaço. Se o valor da distância estiver dentro de uma distância limite (threshold-utiliza algoritmo KNN), é considerada face, caso contrário é considerada como não. 
 
 Imagem: em escala de cinza.
 A validação cruzada utilizará Holdout, como segue abaixo:
@@ -32,4 +33,5 @@ Bibliografia
 Bissi, T. D. Reconhecimento Facial com os algoritmos Eigenfaces e Fisherfaces, 2018. Dísponível em: https://repositorio.ufu.br/bitstream/123456789/22158/3/ReconhecimentoFacialAlgotimos.pdf.Acesso em:05/08/2020
 
 OpenCv, Face Recogni with OpenCV. 2020. Disponível em: https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html Acesso em : 11/09/2020.
+
 
