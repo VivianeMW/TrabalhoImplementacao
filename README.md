@@ -23,7 +23,8 @@ Treinamento: foi usado 73% do dataset.
 Teste: foi usado 27% do dataset.
 
 • **Resultados obtidos:** Na documentação do OpenCV(2020) indica a utilização de 50 Eigenvetores já podem ser suficientes para codificar características faciais importantes, mas confome indicado por Bissi(2018), foi utilizado o numero de 100.
-Pra o valor de threshold foi analisado os valores optido nos resultados dos testes afim de se escolher uma valor adequado, não muito grande onde classique incorretamente as faces, e nem muito baixo onde não consiga reconhecer as faces, pois haverá variação de uma iamgem para outra, portanto o valor foi de 9000.
+Pra o valor de threshold foi analisado os valores optido nos resultados dos testes afim de se escolher uma valor adequado, não muito grande onde classifique incorretamente as faces, e nem muito baixo onde não consiga reconhecer as faces, pois haverá variação de uma imagem para outra, portanto o valor foi de 9000.
+A matriz de confusão, acurácio de 0,84 e também os valores de precision e recall estão no video.
 
 • **Video:** O video é privado precisa estar logado com a conta  fernando.santos@udesc.br, para poder visualizar.
 Link do video: https://www.youtube.com/watch?v=boF-Sw-SP7U
